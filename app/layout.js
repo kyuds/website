@@ -19,7 +19,9 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistMono.variable} antialiased`}>
-        {children}
+        <div className="flex items-center justify-center min-h-screen w-full">
+          {children}
+        </div>
       </body>
     </html>
   );
