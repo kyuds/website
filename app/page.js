@@ -15,7 +15,7 @@ export default function Home() {
         <Link url="/about" contents="1"/>
         <Link url="https://linkedin.com/in/kyuds" contents="2"/>
         <Link url="https://github.com/kyuds" contents="3"/>
-        <Link url="/https://instagram.com/kyu.ds" contents="4"/>
+        <Link url="https://instagram.com/kyu.ds" contents="4"/>
         <Link url="/resume.pdf" contents="5"/>
       </div>
     </div>
