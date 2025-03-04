@@ -6,8 +6,8 @@ export default function About() {
                 My name is <b>Daniel Shin (신규승)</b>, a software engineer, boba aficonado, and aspiring entrepreneur. 
                 I am currently a student at UC Berkeley, majoring in Electrical Engineering and Computer Sciences. 
                 Right now, I am taking some gap years, working at <b>Everspin</b>, a cybersecurity firm back in my 
-                home country, South Korea. My personal interests in computer science span <b>distributed systems</b>  
-                and deep learning, specifically <b>agentic systems</b>.
+                home country, South Korea. My personal interests in computer science span <b>distributed systems</b> and 
+                deep learning, specifically <b>agentic systems</b>.
             </p>
             <p className="mt-5 mb-30">
                 In my free time, I try to exercise a lot, read books, and hang out with friends. I love travelling and camping, 
