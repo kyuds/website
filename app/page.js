@@ -2,7 +2,7 @@ import Link from "@/components/link";
 
 export default function Home() {
   return (
-    <div className="group relative w-full md:min-w-[22%] md:w-auto mb-30 md:mb-0">
+    <div className="group relative w-full md:min-w-[22%] md:w-auto mb-20 md:mb-0">
       <div className="w-full py-20 px-10 bg-foreground flex items-center justify-center
                       transition-transform duration-300 md:group-hover:-translate-y-5 md:mb-0 mb-5">
         <div className="pr-20">

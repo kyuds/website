@@ -9,9 +9,9 @@ export default function About() {
                 home country, South Korea. My personal interests in computer science span <b>distributed systems</b> and 
                 deep learning, specifically <b>agentic systems</b>.
             </p>
-            <p className="mt-5 mb-30">
-                In my free time, I try to exercise a lot, read books, and hang out with friends. I love travelling and camping, 
-                and am trying to get into backpacking. I love meeting new people, so if you want to chat, contact me anytime!
+            <p className="mt-5 mb-20">
+                In my free time, I try to exercise a lot, read books, and hang out with friends. I love travelling and camping, honestly 
+                anything outdoors in general. I love meeting new people, so if you want to chat, contact me anytime!
             </p>
         </div>
     );
